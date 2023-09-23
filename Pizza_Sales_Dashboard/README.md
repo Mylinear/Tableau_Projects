@@ -41,7 +41,7 @@ Once connected, you can perform data processing, cleaning, and transformations a
 
 ### Creating a Dashboard
 
-Create a dashboard and reports in Tableau to visualize the pizza sales data. The details of the Tableau project can be found in the `tableau_project/pizza_sales_dashboard.twbx` file.
+Create a dashboard and reports in Tableau to visualize the pizza sales data. The details of the Tableau project can be found in the [Project File](https://github.com/Mylinear/Tableau_Projects/blob/main/Pizza_Sales_Dashboard/Pizza_Sales_Dashboard.twbx) file.
 
 ## Project Link
 
